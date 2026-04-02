@@ -51,7 +51,7 @@ It covers data cleaning, correlation analysis, multi-year trend tracking, region
 ## 📁 Project Structure
 
 ```
-world-happiness-eda/
+World-Happiness-Report-Analysis/
 │
 ├── 2015.csv
 ├── 2016.csv

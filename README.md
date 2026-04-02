@@ -114,7 +114,7 @@ World-Happiness-Report-Analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/world-happiness-eda.git
+git clone (https://github.com/Raunak22-Dev/World-Happiness-Report-Analysis.git)
 cd world-happiness-eda
 
 # 2. Install dependencies

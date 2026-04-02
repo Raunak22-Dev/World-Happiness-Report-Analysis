@@ -59,7 +59,7 @@ World-Happiness-Report-Analysis/
 ├── 2018.csv
 ├── 2019.csv
 │
-├── world_happiness_portfolio.ipynb   ← Main analysis notebook
+├── world_happiness_portfolio.ipynb  
 └── README.md
 ```
 
@@ -114,8 +114,7 @@ World-Happiness-Report-Analysis/
 
 ```bash
 # 1. Clone the repository
-git clone (https://github.com/Raunak22-Dev/World-Happiness-Report-Analysis.git)
-cd world-happiness-eda
+git clone https://github.com/Raunak22-Dev/World-Happiness-Report-Analysis.git
 
 # 2. Install dependencies
 pip install pandas matplotlib seaborn jupyter
